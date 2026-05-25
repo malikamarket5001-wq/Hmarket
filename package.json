@@ -1,0 +1,9 @@
+{
+  "name": "h-market-netlify",
+  "version": "1.0.0",
+  "private": true,
+  "description": "H Market Netlify site with hidden admin panel and Netlify Blobs uploads",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}

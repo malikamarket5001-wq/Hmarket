@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="H Market logo">
+  <defs>
+    <linearGradient id="g" x1="72" y1="48" x2="440" y2="464" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#11e7d5"/>
+      <stop offset="0.52" stop-color="#159cff"/>
+      <stop offset="1" stop-color="#1837ff"/>
+    </linearGradient>
+    <filter id="s" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="22" stdDeviation="22" flood-color="#0f5bff" flood-opacity=".25"/>
+    </filter>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="#f7fbff"/>
+  <path filter="url(#s)" fill="url(#g)" d="M154 58c-28 0-50 22-50 50v296c0 28 22 50 50 50h26c28 0 50-22 50-50v-89c0-33 31-56 62-45l44 15v119c0 28 22 50 50 50h26c28 0 50-22 50-50V108c0-28-22-50-50-50h-26c-28 0-50 22-50 50v86c0 26-25 44-50 36l-56-19V108c0-28-22-50-50-50h-26z"/>
+  <path fill="#fff" d="M252 215c0-15 17-25 30-17l73 43c13 8 13 27 0 35l-73 43c-13 8-30-2-30-17v-87z"/>
+</svg>
